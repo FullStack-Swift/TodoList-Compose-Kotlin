@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <string name="title_activity_todo">TodoActivity</string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="title_activity_auth">AuthActivity</string>
+</resources>
